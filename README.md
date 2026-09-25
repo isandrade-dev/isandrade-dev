@@ -4,4 +4,5 @@
 
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=isandrade-dev&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isandrade-dev&layout=compact&hide_border=true" /> </p>
 
-<p align="left"> <a href="mailto:igoraju27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%C3%ADgor-andrade-079662368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <p align="center"><i>⭐ De um dia de cada vez, aprendendo e construindo.</i></p>
+<p align="left"> <a href="mailto:igoraju27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%C3%ADgor-andrade-079662368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <p align="center"><i>🚀 Sempre aprendendo, desenvolvendo projetos e buscando evoluir cada vez mais na área de tecnologia.
+</i></p>
