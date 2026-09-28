@@ -27,7 +27,7 @@ Meu objetivo é crescer profissionalmente na área de tecnologia, adquirindo exp
 
 ## 📚 Atualmente estudando
 
-* 💜 C#
+* 💜 Csharp
 * 🐍 Python
 * 🌐 JavaScript
 * 🗄️ SQL e Banco de Dados
